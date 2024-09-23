@@ -1,0 +1,92 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #000;
+    color: aliceblue;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    
+}
+
+.logo a{
+    display: flex;
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+    
+    
+}
+.home{
+    display: flex;
+}
+.home a{
+    display: flex;
+    text-decoration: none;
+    color: aqua;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition: 0.4s ease;
+    
+}
+.home a:hover{
+    color: aliceblue;
+
+}
+ button:hover {
+    background-color:aqua;
+} 
+.herocontent{
+    text-align: center;
+    color: aqua;
+    font-size: 32px;
+    font-weight: bold;
+}
+ input:hover{
+    background-color:aqua;
+}
+
+.about {
+    padding: 4px;
+    margin: 10px;
+    width: 80%;
+    
+    
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.about h1{
+    
+    font-weight: bold;
+    font-size: x-large;
+}
+.about p{
+    margin-top: 10px;
+}
+.about button{
+    background-color: black;
+    color: aqua;
+    padding: 4px;
+    display: flex;
+    
+    margin-top: 10px;
+    
+
+    
+    display: inline-block;
+    
+    border: solid 4px aqua;
+    
+}
+
+button:hover{
+    background-color: aliceblue;
+}

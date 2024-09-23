@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #000;
+    color: aliceblue;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    
+}
+
+.logo a{
+    display: flex;
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+    
+    
+}
+.home{
+    display: flex;
+}
+.home a{
+    display: flex;
+    text-decoration: none;
+    color: aqua;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition: 0.4s ease;
+    
+}
+.home a:hover{
+    color: aliceblue;
+
+}
+ button:hover {
+    background-color:aqua;
+} 
+.box{
+    height: 380px;
+    width: 400px;
+    background-color:black;
+    border-radius: 20px;
+   
+    margin-left: 100px;
+    padding: 50px;
+    margin-top: 50px;
+
+
+    
+}
+
+.in{
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background:aqua;
+
+
+}
+
+.int{
+    height: 60px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+    
+}
+.right img{
+    margin-left: 300px;
+}
+.inp{
+    width: 200px;
+    height: 30px;
+    background-color:transparent;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 55px;
+    border-color:white;
+    border-style: solid;
+    border-width: 3px;
+    color: white;
+
+
+
+
+
+
+
+}
+.input:hover{
+    background-color: aqua;
+}
+.h{
+    color:aqua;
+    margin-top: 10px;
+    margin-left: 80px;
+}

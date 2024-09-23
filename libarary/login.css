@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #000;
+    color: aliceblue;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    
+}
+
+.logo a{
+    display: flex;
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+    
+    
+}
+.home{
+    display: flex;
+}
+.home a{
+    display: flex;
+    text-decoration: none;
+    color: aqua;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition: 0.4s ease;
+    
+}
+.home a:hover{
+    color: aliceblue;
+
+}
+ button:hover {
+    background-color:aqua;
+} 
+.herocontent{
+    text-align: center;
+    color: aqua;
+    font-size: 32px;
+    font-weight: bold;
+}
+ input:hover{
+    background-color:aqua;
+}
+/* button:hover{
+    background-color: aliceblue;
+} */
+.hero{
+    background-color:brown;
+}
+.maincontent{
+    margin-top: 20px;
+    
+    background-color: aliceblue;
+
+}
+
+.maincontent h2{
+    text-align: center;
+}
+.hero{
+    margin: auto;
+    text-align: center;
+    
+}
+.hello{
+    display: flex;
+    margin: 10px;
+    gap: 30px;
+    justify-content: center;
+    
+    justify-items: auto;
+}
+.book h2 {
+    margin-top: 10px;
+    
+}
+h2{
+    margin-top: 1000px;
+}
+.two{ border:aqua solid 4px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 4px;
+    gap:40px ;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    display: inlin;
+    
+
+}
+.two a{
+    color:aqua;
+    text-decoration: none;
+    
+
+} 
+.one{
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+button{
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+}
+.box{
+    height: 380px;
+    width: 400px;
+    background-color:white;
+    border-radius: 20px;
+   
+    margin-left: 100px;
+    padding: 50px;
+    margin-top: 50px;
+
+    
+}
+.in{
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+
+}
+
+.int{
+    height: 60px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.right img{
+    margin-left: 300px;
+}
+.inp{
+    width: 200px;
+    height: 40px;
+    background-color:aqua;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 55px;
+    border-color:white;
+    border-style: solid;
+    border-width: 3px;
+    color: white;
+
+
+
+
+
+
+
+}
+.inp:hover{
+    background-color: white;
+    color: aqua;
+}
+.h{
+    color:aqua;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+
+hr{
+    color: brown;
+    background-color: brown;
+}
+.u{
+    color:aqua;
+    margin-left: 60px;
+    font-size: 20px;
+    
+    
+
+
+
+}
+.pp{
+    margin-left: 55px;
+    padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
